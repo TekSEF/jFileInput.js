@@ -1,0 +1,12 @@
+{
+    "name": "jFileInput.js",
+    "version": "0.0.1",
+    "author": "TekSEF",
+    "homepage": "http://www.jfileinput.com",
+    "main": "./jFileInput.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/TekSEF/jFileInput.js.git"
+    }
+}
